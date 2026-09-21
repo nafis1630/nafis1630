@@ -42,16 +42,16 @@
 $ cat about_me.txt
 ```
 - 🎯 &nbsp;**Role:** Full Stack Developer, focused on scalable web apps
-- 🏢 &nbsp;**Currently working at:** আপনার কোম্পানি/প্রতিষ্ঠানের নাম
-- 🎓 &nbsp;**Education:** আপনার ডিগ্রি — ইউনিভার্সিটির নাম
-- 🔭 &nbsp;**Currently building:** আপনার প্রজেক্টের নাম
-- 🌱 &nbsp;**Currently learning:** System Design, Cloud Architecture (উদাহরণ)
+- 🏢 &nbsp;**Currently working at:** Bangladesh Cyber Squad
+- 🎓 &nbsp;**Education:** IUBAT- (Computer Science & Engineering)
+- 🔭 &nbsp;**Currently building:** MY OWN AI
+- 🌱 &nbsp;**Currently learning:** System Design, Cloud Architecture 
 - 👯 &nbsp;**Open to collaborate on:** Open Source & Developer Tools
 - 💬 &nbsp;**Ask me about:** JavaScript, React, Node.js, System Design
-- ⚔️ &nbsp;**Competitive Programming:** Codeforces / LeetCode হ্যান্ডেল দিন
-- 🏆 &nbsp;**Achievements:** হ্যাকাথন/অ্যাওয়ার্ড থাকলে এখানে লিখুন
-- 📫 &nbsp;**Reach me:** your-email@example.com
-- ⚡ &nbsp;**Fun fact:** কোড লিখি, বাগ বানাই, তারপর নিজেই হিরো হয়ে সেটা ফিক্স করি 😄
+- ⚔️ &nbsp;**Competitive Programming:** Codeforces 
+- 🏆 &nbsp;**Achievements:** 
+- 📫 &nbsp;**Reach me:** nafisfuad4455@gmail.com
+- ⚡ &nbsp;**Fun fact:** I write code, create bugs, and then play the hero by fixing them myself.😄
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -67,20 +67,20 @@ $ cat about_me.txt
 ```py
 class Developer:
     def __init__(self):
-        self.name     = "YOUR_NAME"
+        self.name     = "NAFIS_FUAD"
         self.role     = "Full Stack Developer"
         self.base     = "Bangladesh, BD 🇧🇩"
-        self.stack    = ["JS/TS", "Python", "React", "Node"]
+        self.stack    = ["JS/TS", "Python", "c", "React", "Node"]
         self.mission  = "Build things that matter"
 
     def currently_building(self):
-        return "আপনার প্রজেক্টের নাম"
+        return "MY OWN AI"
 
     def currently_learning(self):
-        return "যা শিখছেন লিখুন এখানে"
+        return "c#"
 
     def contact(self):
-        return "your-email@example.com"
+        return "nafisfuad4455@gmail.com"
 
 me = Developer()
 print(f"{me.name} is online.")
