@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=150&lines=%24+ssh+NAFIS-FUAD%40github.dev;Last+login%3A+today+from+YOUR_CITY%2C+Bangladesh;%5B*%5D+Loading+profile+modules...+done;%5B*%5D+Skills+compiled+successfully;%5B*%5D+Coffee.exe+is+running+%E2%98%95;%3E+Type+'about+me'+to+continue_" alt="terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=150&lines=%24+ssh+NAFIS-FUAD%40nafis1630;Last+login%3A+today+from+DHAKA%2C+Bangladesh;%5B*%5D+Loading+profile+modules...+done;%5B*%5D+Skills+compiled+successfully;%5B*%5D+Coffee.exe+is+running+%E2%98%95;%3E+Type+'about+me'+to+continue_" alt="terminal"/>
 </p>
 
 <p align="center">
