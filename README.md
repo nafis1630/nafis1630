@@ -112,7 +112,7 @@ print(f"{me.name} is online.")
 
 </p>
 
-> নিজের প্রকৃত স্কিল অনুযায়ী উপরের সংখ্যাগুলো (যেমন `/90/`) বদলে নিন।
+> 
 
 ---
 
@@ -197,7 +197,7 @@ print(f"{me.name} is online.")
 </p>
 
 <blockquote align="center">
-এটা কাজ করাতে নিজের ইউজারনেম দিয়ে একটা রিপো বানিয়ে সেখানে একটা GitHub Action workflow বসাতে হবে — চাইলে সেটাও বানিয়ে দিতে পারি।
+
 </blockquote>
 
 ---
@@ -209,7 +209,7 @@ print(f"{me.name} is online.")
 <td width="50%">
 
 ### [🔗 Project One](#)
-আপনার প্রজেক্টের সংক্ষিপ্ত ও আকর্ষণীয় বর্ণনা এখানে লিখুন — কী সমস্যা সমাধান করে, কেন এটা গুরুত্বপূর্ণ।
+
 
 <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933"/>
@@ -221,7 +221,7 @@ print(f"{me.name} is online.")
 <td width="50%">
 
 ### [🔗 Project Two](#)
-আপনার প্রজেক্টের সংক্ষিপ্ত ও আকর্ষণীয় বর্ণনা এখানে লিখুন — কী সমস্যা সমাধান করে, কেন এটা গুরুত্বপূর্ণ।
+
 
 <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
@@ -243,8 +243,7 @@ print(f"{me.name} is online.")
   <img src="https://img.shields.io/badge/HACKATHON_WINNER-0D1117?style=for-the-badge&logo=devpost&logoColor=FF00FF"/>
 </p>
 
-> এখানে আপনার সার্টিফিকেশন, হ্যাকাথন জয়, বা স্বীকৃতিগুলো বসান।
-
+> 
 ---
 
 ## 💚 Support My Work
