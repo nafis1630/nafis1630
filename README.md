@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:16213e,50:0f3460,75:16213e,100:0a0e27&height=280&section=header&text=YOUR%20NAME&fontSize=68&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=55&descSize=18&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:16213e,50:0f3460,75:16213e,100:0a0e27&height=280&section=header&text=NAFIS_FUAD&fontSize=68&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=55&descSize=18&descColor=39FF14" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=150&lines=%24+ssh+YOUR_NAME%40github.dev;Last+login%3A+today+from+YOUR_CITY%2C+Bangladesh;%5B*%5D+Loading+profile+modules...+done;%5B*%5D+Skills+compiled+successfully;%5B*%5D+Coffee.exe+is+running+%E2%98%95;%3E+Type+'about+me'+to+continue_" alt="terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=150&lines=%24+ssh+NAFIS-FUAD%40github.dev;Last+login%3A+today+from+YOUR_CITY%2C+Bangladesh;%5B*%5D+Loading+profile+modules...+done;%5B*%5D+Skills+compiled+successfully;%5B*%5D+Coffee.exe+is+running+%E2%98%95;%3E+Type+'about+me'+to+continue_" alt="terminal"/>
 </p>
 
 <p align="center">
